@@ -2,7 +2,6 @@
 Analysis of Salesforce export data using Python and Jupyter Notebook.
 
 
-
 # Salesforce Data Analysis with Python
 
 ## Project Overview
@@ -28,4 +27,27 @@ The dataset was exported via Salesforce Data Export Wizard and processed with pa
 - Add visualizations (bar charts, pie charts).
 - Explore real-time Salesforce API integration.
 - Extend analysis to Snowflake or Power BI dashboards.
+
+- ##  Collaboration Demo: Slack & Jira Integration
+
+Data analysis is most impactful when insights are shared and acted upon.  
+This project demonstrates how Salesforce analytics can be integrated with collaboration tools:
+
+###  Slack Integration
+- Pipeline insights can be posted directly into team channels (e.g., *sales-insights-dashboard*).  
+- Example: After running the notebook, a message is sent to Slack with revenue updates and lead status distribution.  
+- This keeps sales and marketing teams aligned in real time.
+
+###  Jira Integration
+- Data quality issues and follow‑up actions can be tracked as Jira tasks.  
+- Example: Inconsistent contact titles (“new” vs “New”) are flagged and automatically logged as a Jira issue on the *Sales Insights Dashboard* board.  
+- This ensures accountability and continuous improvement.
+
+### Why It Matters
+- **Slack** → Instant communication of insights.  
+- **Jira** → Structured task management for improvements.  
+- Together, they show how analysis → communication → execution can flow seamlessly across teams.
+
+---
+
 
