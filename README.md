@@ -1,6 +1,9 @@
 # salesforce-analysis
 Analysis of Salesforce export data using Python and Jupyter Notebook.
 
+Salesforce → Python Analysis → Insights → Slack (updates) + Jira (tasks) → Team Action
+
+
 
 # Salesforce Data Analysis with Python
 
@@ -47,7 +50,5 @@ This project demonstrates how Salesforce analytics can be integrated with collab
 - **Slack** → Instant communication of insights.  
 - **Jira** → Structured task management for improvements.  
 - Together, they show how analysis → communication → execution can flow seamlessly across teams.
-
----
 
 
